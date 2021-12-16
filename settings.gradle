@@ -9,3 +9,4 @@ dependencyResolutionManagement {
 rootProject.name = "SecondLibrary"
 include ':app'
 include ':library'
+include ':javalib'
